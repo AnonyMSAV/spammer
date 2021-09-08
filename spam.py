@@ -11,7 +11,7 @@ def option2():
 	py.press('enter')
 
 def option3(name):
-	py.moveTo(1272,502)
+	py.moveTo(1272,502) # Sequency of forwarding message.
 	py.click()
 	py.moveTo(1223,399)
 	py.click()
@@ -62,7 +62,7 @@ elif(options == 1):
 	count = int(input('Count (0 = unlimited) : '))
 	py.moveTo(573,698)
 	py.click()
-	py.hotkey('ctrl','a')
+	py.hotkey('ctrl','a') # Select the emoji and copy it.
 	py.hotkey('ctrl','c')
 	py.press('enter')
 	
