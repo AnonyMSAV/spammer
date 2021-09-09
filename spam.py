@@ -37,7 +37,7 @@ print('''
 	Created by AnonyMSAV..
 	Contact --> https://t.me/Anony4790
 
-	options --> 0 - Message spam 
+	options --> 0 - Message spams 
 		    1 - Emoji spams
 		    2 - Sticker spams
 
